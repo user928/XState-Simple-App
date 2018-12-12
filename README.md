@@ -1,2 +1,4 @@
 # XState-Simple-App
-experiment with XState lib
+Simple state experiment with XState lib
+
+Data visualisation at: https://statecharts.github.io/xstate-viz/
